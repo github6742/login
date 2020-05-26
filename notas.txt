@@ -1,0 +1,9 @@
+Ejemplo de login con seguridad de lado del servidor con glassfish
+
+Youtube: javacode 503
+
+https://www.youtube.com/watch?v=kTOsOZDpWNw&list=PLxxZ0339925EqUWUJXgggxfpzdO2MegPD
+
+videos
+
+

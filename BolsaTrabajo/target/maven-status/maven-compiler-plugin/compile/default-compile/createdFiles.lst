@@ -1,0 +1,7 @@
+beans\helper\ColoniaHelper.class
+beans\model\Candidato.class
+beans\servicio\ColoniaService.class
+beans\ciclovida\DepuracionListener.class
+beans\backing\VacanteForm.class
+beans\helper\FacesContextHelper.class
+beans\domain\Colonia.class

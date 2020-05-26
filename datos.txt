@@ -1,0 +1,9 @@
+krodriguez	12345	administrador
+jmoran		abcde	usuario	
+agomez		gomez123	administrador
+
+base de dato:bdlogin
+pool: loginPool
+JNDI: jdbc/loginbd
+REALM: realmLoginbd
+JAAS: jdbcRealm
